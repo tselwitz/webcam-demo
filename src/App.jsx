@@ -12,7 +12,7 @@ const App = () => {
   };
   return (
     <div>
-      <h1>Cam Quest</h1>
+      <h1>Webcam + Audio Recording Demo</h1>
       <div className="button-flex">
         <button onClick={toggleRecordOption("video")}>
           Record Video
